@@ -1,0 +1,4 @@
+audio/
+.vscode/
+node_modules/
+out/
